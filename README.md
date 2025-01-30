@@ -38,8 +38,6 @@ To run the simulation, execute the Python script:
 
 This will display a window with an animated graph where nodes change their color and size, representing the dynamic spread of emotions across the network. Nodes will appear red for negative valence, green for positive valence, and are sized according to their arousal level.
 
-*Output*
-
 *Customization*
 
 You can adjust:
